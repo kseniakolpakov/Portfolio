@@ -1,7 +1,7 @@
 # Портфолио
 | Название проекта |Навыки и инструмены| Задачи проекта | 
 |----------|----------|----------|
-|<a>[Построение рекомендательной системы для интернет-магазина]([RecSys_pet_project](https://github.com/kseniakolpakov/RecSys_pet_project))</a>|Pandas, Numpy, Matplotlib, CatBoost, ALS, implicit, Fast-Api, MLFlow, AirFlow, Docker|Разработать алгоритм рекомендаций для implicit данных|
+|<a href="https://github.com/kseniakolpakov/RecSys_pet_project">Построение рекомендательной системы для интернет-магазина</a>|Pandas, Numpy, Matplotlib, CatBoost, ALS, implicit, Fast-Api, MLFlow, AirFlow, Docker|Разработать алгоритм рекомендаций для implicit данных|
 |<a>[Исследование технологического процесса очистки золота](Yandex%20Praktikum/Технологический%20процесс%20очистки%20золота/Технологический%20процесс%20очистки%20золота.ipynb)</a>|Python, Pandas, Sckit-Learn, NumPy, Matplotlib, исследовательский анализ данных|Спрогнозировать концентрацию золота при проведении процесса очистки золота|
 |<a>[Построение модели определения стоимости автомобиля](Yandex%20Praktikum/Численные%20методы/Определение%20стоимости%20автомобилей.ipynb) </a>|Python, Pandas, Sckit-Learn, LightGBM| Разработать систему рекомендации стоимости автомобиля на основе его описания|
 |<a>[Прогнозирование количества заказов такси на следующий час](Yandex%20Praktikum/Временные%20ряды/Прогнозирование%20заказов%20такси.ipynb)</a>|Python, Pandas, Sckit-Learn, LightGBM| Разработать систему предсказания объема заказа|
